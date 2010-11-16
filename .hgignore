@@ -1,0 +1,12 @@
+syntax: glob
+*~
+*.swp
+target\*
+.settings\*
+.project
+.classpath
+*.ser
+
+syntax: regexp
+.*\#.*\#$
+
